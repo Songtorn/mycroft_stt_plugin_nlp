@@ -20,13 +20,20 @@ Project Structure:
 
 Installation:
 <br />
-cd ~/mycroft-core       
+cd ~/mycroft-core     
+<br />  
 source venv-activate.sh  
+<br />
 mkdir plugin
+<br />
 cd plugin
+<br />
 git clone https://github.com/scg-wedo/mycroft_stt_plugin_nlp.git
+<br />
 pip install -e .
+<br />
 cd ~/mycroft-core  
+<br />
 mycroft-config edit user
 
 ADD stt on user config:
