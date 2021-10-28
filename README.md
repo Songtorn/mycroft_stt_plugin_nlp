@@ -24,11 +24,15 @@ cd ~/mycroft-core
 <br />  
 source venv-activate.sh  
 <br />
-mkdir plugin
+mkdir plugins
 <br />
-cd plugin
+cd plugins
 <br />
 git clone https://github.com/scg-wedo/mycroft_stt_plugin_nlp.git
+<br />
+cd mycroft_stt_plugin_nlp
+<br />
+pip install -r requirements.txt
 <br />
 pip install -e .
 <br />
