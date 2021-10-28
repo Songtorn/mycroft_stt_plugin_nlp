@@ -1,0 +1,10 @@
+Flask
+transformers
+torch
+scipy
+matplotlib
+awscli
+boto3
+
+pyctcdecode==0.1.0
+https://github.com/kpu/kenlm/archive/master.zip
