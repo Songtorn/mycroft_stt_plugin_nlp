@@ -19,10 +19,10 @@ Project Structure:
 ![alt text](https://github.com/scg-wedo/mycroft_stt_plugin_nlp/blob/master/projectStructure2.png?raw=true)
 
 Installation:
+
+cd ~/mycroft-core
 <br />
-cd ~/mycroft-core     
-<br />  
-source venv-activate.sh  
+source venv-activate.sh
 <br />
 mkdir plugins
 <br />
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 <br />
 pip install -e .
 <br />
-cd ~/mycroft-core  
+cd ~/mycroft-core
 <br />
 mycroft-config edit user
 
