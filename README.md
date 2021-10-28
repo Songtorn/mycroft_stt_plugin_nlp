@@ -16,7 +16,7 @@ https://s3.console.aws.amazon.com/s3/buckets/scg-dolab-dev-nlp-speech-to-text?re
 
 Project Structure:
 <br />
-![alt text](https://github.com/scg-wedo/mycroft_stt_plugin_nlp/blob/master/projectStructure.png?raw=true)
+![alt text](https://github.com/scg-wedo/mycroft_stt_plugin_nlp/blob/master/projectStructure2.png?raw=true)
 
 Installation:
 <br />
