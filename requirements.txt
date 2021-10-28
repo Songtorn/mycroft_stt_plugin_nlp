@@ -5,6 +5,8 @@ scipy
 matplotlib
 awscli
 boto3
+pydub
+numpy
 
 pyctcdecode==0.1.0
 https://github.com/kpu/kenlm/archive/master.zip
